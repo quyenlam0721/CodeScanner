@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodeScanner</string>
+    <string name="btnXML">Tra thông tin SV</string>
+    <string name="btnExcel">Điểm danh</string>
+</resources>
